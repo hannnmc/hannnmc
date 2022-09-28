@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a>
 
 <!-- - ⚡ I'm into: --> 
+
+![Han's github stats](https://github-readme-stats.vercel.app/api?username=hannnmc&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannnmc&theme=tokyonight)](https://github.com/hannnmc/github-readme-stats)
