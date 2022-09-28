@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him/His
 - 🌱 Currently learning: React & Redux 🤓
-- 👨‍🔧 Currently working on: creating a fullstack application 👯‍♀️
+- 👨‍🔧 Currently working on: Creating a fullstack application
 - 💬 Let's talk about: Building Beautiful && Functioning apps!
 - 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a>
 
