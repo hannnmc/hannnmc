@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Han
 
-I'm a Fullstack developer in the making - App Academy Jul,2022 ✨
+A Fullstack developer in the making - App Academy Jul,2022 ✨
 
 
 <!--
