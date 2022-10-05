@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Han
 
-A Fullstack developer in the making - App Academy Jul,2022 ✨
+🧑🏻‍💼 Consulting & Sales professional turned 🧑🏻‍💻 Fullstack Developer - App Academy Nov,2022 ✨
 
 
 <!--
@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him/His
 - 🌱 Currently learning: React & Redux 🤓
-- 👨‍🔧 Currently working on: Creating a beautiful && functioning fullstack app!
+- 👨‍🔧 Working on: Creating a beautiful && functioning fullstack app!
 - 💬 Let's talk about: Interesting/ Meaningful/ Fun project ideas 🙌
+- 🙇‍♂️ I'm looking to: Connect with fellow engineers to share backgrounds/interests and learn from each other!
 - 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a>
 
 <!-- - ⚡ I'm into: --> 
