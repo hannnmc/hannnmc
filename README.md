@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning: React & Redux 🤓
 - 👨‍🔧 Working on: Creating a beautiful && functioning fullstack app!
 - 💬 Let's talk about: Interesting/ Meaningful/ Fun project ideas 🙌
-- 🙇‍♂️ I'm looking to: Connect with fellow engineers to share backgrounds/interests and learn from each other!
+- 🙇‍♂️ I'm looking to: Connect with fellow engineers to share stories/interests and learn from each other!
 - 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a>
 
 <!-- - ⚡ I'm into: --> 
