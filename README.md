@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him/His
 - 🌱 Currently learning: MERN Fullstack 🤓
-- 👨‍🔧 Working on: Creating a beautiful && functioning fullstack app!
+- 👨‍🔧 Working on: Creating beautiful && functioning fullstack apps!
 - 💬 Ask me about: <a href="https://cozy-bnb.herokuapp.com/">Cozybnb</a> 🙌
 - 🙇‍♂️ I'm looking to: Connect with fellow engineers to share stories/interests and learn from each other!
 - 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a>
