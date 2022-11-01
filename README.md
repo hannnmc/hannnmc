@@ -26,11 +26,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/hannnmc/Budgit">Budgit - Single page Javascript Vanilla DOM</a>
 
 ## Stats
-
+<div align=center>
+  
 ![Han's github stats](https://github-readme-stats.vercel.app/api?username=hannnmc&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannnmc&theme=tokyonight)](https://github.com/hannnmc/github-readme-stats)
-
+</div
+  >
 ## Technology Stack
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"></a>
