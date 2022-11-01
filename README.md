@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Han
 
-🧑🏻‍💼 Consulting & Sales professional turned 🧑🏻‍💻 Fullstack Developer - App Academy Nov,2022 ✨
+🧑🏻‍💼 Teaching & Sales professional turned 🧑🏻‍💻 Fullstack Developer - App Academy Nov,2022 ✨
 
 
 <!--
