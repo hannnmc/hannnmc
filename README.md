@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning: DS&A 🤓
 - 👨‍🔧 Working on: Creating beautiful && fuctional fullstack apps!
 - 💬 Ask me about: <a href="https://cozy-bnb.herokuapp.com/">Cozybnb</a>, <a href="http://aviquest.herokuapp.com/">Aviquest</a> or <a href="https://hannnmc.github.io/Budgit/">Budgit</a>🙌
-- 🙇‍♂️ I'm looking to: Connect with fellow engineers to share stories/interests and learn from each other!
+- 🙇‍♂️ I'm looking to: Connect with fellow engineers to share ideas and passions and learn from each other!
 - 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a> / <a href="https://angel.co/u/han-chen-17">Angellist</a>
 
 <!-- - ⚡ I'm into: --> 
