@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/hannnmc/Budgit">Budgit - Single page Javascript Vanilla DOM</a>
 
-## Stats
+<!-- ## Stats
 <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannnmc&theme=tokyonight)](https://github.com/hannnmc/github-readme-stats)
   
 ![Han's github stats](https://github-readme-stats.vercel.app/api?username=hannnmc&theme=tokyonight)
 
-</div>
+</div> -->
 
 ## Technology Stack
 
