@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/whilekofman/aviquest">Aviquest - Fullstack MERN</a>
 
-<a href="https://github.com/hannnmc/Budgit">Budgit - Single page Javascript Vanilla DOM</a>
+<a href="https://github.com/hannnmc/Budgit">Budgit - Single-paged Vanilla Javascript</a>
 
 <!-- ## Stats
 <div align=center>
