@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## Projects
 
-<a href="https://github.com/hannnmc/Cozybnb">Cozybnb - Fullstack React Rails</a>
+<a href="https://github.com/hannnmc/Cozybnb">Cozybnb - Full stack React/Redux Rails</a>
 
-<a href="https://github.com/whilekofman/aviquest">Aviquest - Fullstack MERN</a>
+<a href="https://github.com/whilekofman/aviquest">Aviquest - Full stack MERN</a>
 
 <a href="https://github.com/hannnmc/Budgit">Budgit - Single-paged Vanilla Javascript</a>
 
