@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Han
+### Hi there 👋 I'm Han 
 
 🧑🏻‍💼 Teaching & Sales professional turned 🧑🏻‍💻 Fullstack Developer - App Academy Nov,2022 ✨
 
