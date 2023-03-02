@@ -1,24 +1,18 @@
-### Hi there 👋 I'm Han 
+### Hi there 👋 I'm Han and I'm a Fullstack Software Developer 💻✨
 
-🧑🏻‍💼 Teaching & Sales professional turned 🧑🏻‍💻 Fullstack Developer - App Academy Nov,2022 ✨
+I'm a former teaching and sales professional turned Software Engineer, and I'm passionate about creating beautiful and highly functional fullstack applications! 
 
-
-<!--
-**hannnmc/hannnmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 😄 Pronouns: He/Him/His
-- 🌱 Currently learning: DS&A 🤓
-- 👨‍🔧 Working on: Creating beautiful && fuctional fullstack apps!
+- 🌱 Currently learning: Typescript 🤓
+- 👨‍🔧 Working on: TBD~
 - 💬 Ask me about: <a href="https://cozy-bnb.herokuapp.com/">Cozybnb</a>, <a href="http://aviquest.herokuapp.com/">Aviquest</a> or <a href="https://hannnmc.github.io/Budgit/">Budgit</a>🙌
-- 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a> / <a href="https://angel.co/u/han-chen-17">Wellfound</a>
+- 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a> / <a href="https://angel.co/u/han-chen-17">Angelist-Wellfound</a>
 
 <!-- - ⚡ I'm into: --> 
 
 ## Projects
 
-<a href="https://github.com/hannnmc/Cozybnb">Cozybnb - Full stack React/Redux Rails</a>
+<a href="https://github.com/hannnmc/Cozybnb">Cozybnb - Full stack React/Redux Rails/PostgreSQL</a>
 
 <a href="https://github.com/whilekofman/aviquest">Aviquest - Full stack MERN</a>
 
