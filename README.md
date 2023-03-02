@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Han 
 
-I'm a former teaching and sales professional turned Fullstack Software Developer 💻✨, and I'm passionate about creating beautiful and highly functional tools to solve problems!
+I'm a former teaching and sales professional turned Fullstack Software Developer 💻✨, and I'm passionate about creating beautiful and functional tools to solve problems!
 
 - 😄 Pronouns: He/Him/His
 - 🌱 Currently learning: Typescript 🤓
