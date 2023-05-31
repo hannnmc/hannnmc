@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Engineer @ Stellar, and I really enjoy problem-solving and leveraging new technologies to find innovative solutions!
 
-Here are a few of the technologies I enjoy working with the most in no particular order:
+Here are a few of the technologies I enjoy the most in no particular order:
 - JavaScript/TypeScript
 - React Hooks
 - Angular
