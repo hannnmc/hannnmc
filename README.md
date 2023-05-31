@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Han 
 
-I'm a Full Stack Software Engineer @ Stellar. I really enjoy being a problem solver and getting creative with new technologies!
+I'm a Full Stack Software Engineer @ Stellar, and I really enjoy problem-solving and leveraging new technologies to find innovative solutions!
 
 Here are a few of the technologies I enjoy working with the most in no particular order:
 - JavaScript/TypeScript
