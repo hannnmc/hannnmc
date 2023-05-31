@@ -18,7 +18,7 @@ Here are a few of the technologies I enjoy working with the most in no particula
 
 <a href="https://github.com/hannnmc/Budgit">Budgit - Single-paged Vanilla Javascript</a>
 
-## Stats
+<!-- ## Stats
 <div align=center>
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannnmc&theme=tokyonight)](https://github.com/hannnmc/github-readme-stats) -->
@@ -26,4 +26,4 @@ Here are a few of the technologies I enjoy working with the most in no particula
 ![Han's github stats](https://github-readme-stats.vercel.app/api?username=hannnmc&theme=tokyonight)
 
 </div>
-
+ -->
