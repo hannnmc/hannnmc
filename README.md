@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm Han 
 
-I'm a former teaching and sales professional turned Fullstack Software Developer 💻✨, and I'm passionate about creating beautiful and functional tools to solve problems!
+I'm a Full Stack Software Engineer @ Stellar. I really enjoy being a problem solver and being creative with new technologies!
 
-- 😄 Pronouns: He/Him/His
-- 🌱 Currently learning: Typescript 🤓
-- 👨‍🔧 Working on: TBD~
-- 💬 Ask me about: <a href="https://cozy-bnb.herokuapp.com/">Cozybnb</a>, <a href="http://aviquest.herokuapp.com/">Aviquest</a> or <a href="https://hannnmc.github.io/Budgit/">Budgit</a>🙌
-- 📫 You can reach me at: hanmikechen@gmail.com / <a href='https://www.linkedin.com/in/hanchen28/'>LinkedIn</a> / <a href="https://angel.co/u/han-chen-17">Angelist-Wellfound</a>
+Here are a few of the technologies I enjoy working with the most in no particular order:
+- JavaScript/TypeScript
+- React Hooks
+- Angular
+- Ruby on Rails
+- Python 
+- CSS
 
-<!-- - ⚡ I'm into: --> 
-
-## Projects
+## Check out some of my passion projects!
 
 <a href="https://github.com/hannnmc/Cozybnb">Cozybnb - Full stack React/Redux Rails/PostgreSQL</a>
 
@@ -27,27 +27,3 @@ I'm a former teaching and sales professional turned Fullstack Software Developer
 
 </div> -->
 
-## Technology Stack
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="32px" height="32px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="32px" height="32px"></a>
-<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="32px" height="32px"></a>
-<a href="https://www.ruby-lang.org/" title="Ruby"><img src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" alt="Ruby" width="32px" height="32px"></a>
-<a href="https://rubyonrails.org/" title="Rails"><img src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" alt="Rails" width="32px" height="32px"></a>
-<a href="https://jquery.com/" title="jQuery"><img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="32px" height="32px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="32px" height="32px"></a>
-<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="32px" height="32px"></a>
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="32px" height="32px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="32px" height="32px"></a>
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="32px" height="32px"></a>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="32px" height="32px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="32px" height="32px"></a>
-<a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="32px" height="32px"></a>
-<a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="32px" height="32px"></a>
-<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="32px" height="32px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="32px" height="32px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="32px" height="32px"></a>
-<a href="https://www.npmjs.com/" title="npm"><img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="32px" height="32px"></a>
-<a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="webpack" width="32px" height="32px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="32px" height="32px"></a>
-<a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="32px" height="32px"></a>
