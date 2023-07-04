@@ -4,7 +4,7 @@ I'm a Full Stack Software Engineer @ Stellar, and I really enjoy problem-solving
 
 Here are a few of the technologies I enjoy the most in no particular order:
 - JavaScript/TypeScript
-- React Hooks
+- React 
 - Angular
 - Ruby on Rails
 - Python 
