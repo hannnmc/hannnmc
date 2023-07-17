@@ -1,14 +1,4 @@
-### Hi there 👋 I'm Han 
-
-I'm a Full Stack Software Engineer @ Stellar, and I really enjoy problem-solving and leveraging new technologies to find innovative solutions!
-
-Here are a few of the technologies I enjoy the most in no particular order:
-- JavaScript/TypeScript
-- React 
-- Angular
-- Ruby on Rails
-- Python 
-- CSS
+👋 Hey, I'm Han, a Full Stack Software Engineer @ Stellar. I'm passionate about problem-solving and constantly exploring cutting-edge technologies like JavaScript/TypeScript, React, Angular, Ruby on Rails, Python, and CSS to create powerful solutions!
 
 ## Check out some of my passion projects!
 
