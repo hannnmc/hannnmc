@@ -2,7 +2,7 @@
 
 I'm currently a Full stack Software Engineer at Stellar. I'm passionate about problem-solving and constantly exploring new technologies to create interesting and useful tools.  Currently, I enjoy using JavaScript/TypeScript, React, Angular, Ruby on Rails, Python, and CSS to create powerful solutions.  Please feel free to reach out for collaborations or info!
 
-Checkout my portfolio - <a target="_blank" rel=”noreferrer” href="https://hanchen.dev" >Here</a>
+### Checkout my portfolio - <a target="_blank" rel=”noreferrer” href="https://hanchen.dev" >Here</a>
 
 ## Check out some of my passion projects!
 
