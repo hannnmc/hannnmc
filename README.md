@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Han,
 
-I'm currently a Full stack Software Engineer at Stellar, an IT Consulting company based in NYC. I'm passionate about learning new technologies and using them to solve complex problems.  Please feel free to reach out!
+I'm currently a Senior Software Engineer at AECOM Tishman, a Construction Management Company. I'm passionate about learning new technologies and using them to solve complex problems.  Please feel free to reach out!
 
 ### Checkout my portfolio - <a target="_blank" rel=”noreferrer” href="https://hanchen.dev" >Here</a>
 
