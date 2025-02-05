@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Han,
+## 👋 Hi, I'm Han,
 
 I'm currently a Senior Software Engineer at AECOM Tishman, a Construction Management Company. I'm passionate about learning new technologies and using them to solve complex problems.  Please feel free to reach out!
 
